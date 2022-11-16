@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- *_cd - change directory builtin
+ *_cd - change the directory builtin
  * @av: argument to work with
  * Return: int
  */
