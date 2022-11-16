@@ -83,7 +83,6 @@ int sethist(char *cmd);
 int print_hist(void);
 int exit_hist(void);
 
-
 /* from _printenv.c */
 int _printenv(void);
 int _putchar(char c);
