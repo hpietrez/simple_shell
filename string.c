@@ -5,7 +5,7 @@
  * @s2: char pointer
  *
  * _strcmp: compares two strings at the same spot on each string
- * Return: positive, negative, or 0 if theyre the same
+ * Return: positive, negative, or 0 if they are the same
  */
 int _strcmp(char *s1, char *s2)
 {
