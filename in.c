@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * inputvalidator - validate input buffer
  * complete is bit flag type to complete.
@@ -8,7 +9,7 @@
  *
  * @fd: file descriptor
  *
- * Return: return value of command, 2 for syntax errors,
+ * Return: return value of command, 2 for syntax errors
  * or negative numbers for syscall errors
  */
 int inputvalidator(char **buf, int fd)
