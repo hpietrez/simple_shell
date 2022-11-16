@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * strtok - tokenizes a string
+ * strtok - tokenize a string
  * @str: string to tokenize
  *
  * @delim: delimiters used to create tokens
