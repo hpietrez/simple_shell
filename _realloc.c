@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _realloc - reallocates a memory block using malloc and free
+ * _realloc - reallocates memory block using malloc and free
  * @ptr: void pointer
  * @old_size: unsigned int
  * @new_size: unsigned int
