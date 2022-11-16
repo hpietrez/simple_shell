@@ -1,6 +1,8 @@
 #ifndef SHELLH
 #define SHELLH
 
+/* SIMPLE SHELL HEADER */
+
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
