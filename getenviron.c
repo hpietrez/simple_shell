@@ -1,5 +1,5 @@
 /**
- * getenviron - static wrapper copy whole environ
+ * getenviron - static wrapper to copy whole environ
  *
  * Return: environ address
  */
