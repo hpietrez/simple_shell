@@ -66,7 +66,7 @@ char *itos(int digits)
 /**
  * printerr - printerrors
  * @str: string
- * null prints errno error with perror, otherwise print string as error
+ * null prints errno error with perror, otherwise prints string as error
  * Return: 0
  */
 
