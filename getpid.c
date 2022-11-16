@@ -2,7 +2,7 @@
 #include <dirent.h>
 
 /**
- * _getpid - gets the pid of a currently running process
+ * _getpid - gets the pid of currently running process
  * Return: string of the pid
  */
 char *_getpid()
