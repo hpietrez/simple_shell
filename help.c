@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * help - help builtin command
+ * help - help a builtin command
  * @cmd: the command line inserted
  * Return: 0 if sucess (always)
  */
