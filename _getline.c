@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * _getline - gets a line from fd or std input
+ * _getline - gets line from fd or std input
  * @lineptr: buffer to fill line with
  * @fd: file descriptor
  * Return: num of characters
