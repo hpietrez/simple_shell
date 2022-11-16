@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * parsesetsvar - parse set shell vars, returns new buf after var setting
+ * parsesetsvar - parse set shell var, returns new buf after var setting
  * @buf: buffer
  * Return: string
  */
