@@ -2,7 +2,7 @@
 #include "history.h"
 
 /**
- * gethistory - gets the history list
+ * gethistory - gets a history list
  * Return: 0 uposon success
  */
 
