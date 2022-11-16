@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * getallenv - get all environment
+ * getallenv - get all the environment
  * Return: environment
  *
  */
