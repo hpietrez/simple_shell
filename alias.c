@@ -1,7 +1,7 @@
 #include "shell.h"
 #include "alias.h"
 /**
- * getalist - static wrapper getalias list
+ * getalist - static wrapper for getalias list
  * Return: address alist
  *
  */
