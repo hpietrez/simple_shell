@@ -2,7 +2,7 @@
 
 /**
  * getspecial - wrapper for getspecial static var
- * Return: address of shellvar special
+ * Return: address of a shellvar special
  */
 
 ShellVar **getspecial()
